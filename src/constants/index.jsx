@@ -188,7 +188,7 @@ export const SOCIAL_MEDIA_LINKS = [
     icon: <FaXTwitter fontSize={25} className="hover:opacity-80" />,
   },
   {
-    href: "https://github.com/GGARJUN",
+    href: "https://github.com/41ucet",
     icon: <FaGithub fontSize={25} className="hover:opacity-80" />,
   },
   {
