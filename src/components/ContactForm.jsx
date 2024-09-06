@@ -42,10 +42,10 @@ const ContactForm = () => {
 
       emailjs
         .send(
-          "service_g30nlas",
-          "template_y9pl9al",
+          "service_yseaa1q",
+          "service_yseaa1q",
           formData,
-          "4n0qBsuJ1GknI5GO6"
+          "rx9k8d3dOul5B84si"
         )
         .then((response) => {
           toast.success("Message sent successfully");
