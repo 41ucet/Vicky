@@ -11,40 +11,43 @@ const GridPage2 = () => {
 
   // Array of images with names
   const images = [
-    { url: "/P2/1 (1).jpg", name: "Image 1" },
-    { url: "/P2/1 (2).jpg", name: "Image 2" },
-    { url: "/P2/1 (3).jpg", name: "Image 3" },
-    { url: "/P2/1 (4).jpg", name: "Image 4" },
-    { url: "/P2/1 (5).jpg", name: "Image 5" },
-    { url: "/P2/1 (6).jpg", name: "Image 6" },
-    { url: "/P2/1 (7).jpg", name: "Image 7" },
-    { url: "/P2/1 (8).jpg", name: "Image 8" },
-    { url: "/P2/1 (9).jpg", name: "Image 9" },
-    { url: "/P2/1 (10).jpg", name: "Image 9" },
-    { url: "/P2/1 (11).jpg", name: "Image 11" },
-    { url: "/P2/1 (12).jpg", name: "Image 12" },
-    { url: "/P2/1 (13).jpg", name: "Image 13" },
-    { url: "/P2/1 (14).jpg", name: "Image 14" },
-    { url: "/P2/1 (15).jpg", name: "Image 15" },
-    { url: "/P2/1 (16).jpg", name: "Image 16" },
-    { url: "/P2/1 (17).jpg", name: "Image 17" },
-    { url: "/P2/1 (18).jpg", name: "Image 18" },
-    { url: "/P2/1 (19).jpg", name: "Image 19" },
-    { url: "/P2/1 (20).jpg", name: "Image 20" },
-    { url: "/P2/1 (21).jpg", name: "Image 21" },
-    { url: "/P2/1 (33).jpg", name: "Image 33" },
-    { url: "/P2/1 (22).jpg", name: "Image 22" },
-    { url: "/P2/1 (23).jpg", name: "Image 23" },
-    { url: "/P2/1 (24).jpg", name: "Image 24" },
-    { url: "/P2/1 (25).jpg", name: "Image 25" },
-    { url: "/P2/1 (26).jpg", name: "Image 26" },
-    { url: "/P2/1 (27).jpg", name: "Image 27" },
-    { url: "/P2/1 (28).jpg", name: "Image 28" },
-    { url: "/P2/1 (29).jpg", name: "Image 29" },
-    { url: "/P2/1 (30).jpg", name: "Image 30" },
-    { url: "/P2/1 (34).jpg", name: "Image 31" },
-    { url: "/P2/1 (32).jpg", name: "Image 32" },
-    { url: "/P2/1 (33).jpg", name: "Image 33" },
+    { url: "/P2/1 (9).jpg", name: "Invitation " },
+    { url: "/P2/1 (1).jpg", name: "Double Exposure" },
+    { url: "/P2/1 (21).jpg", name: " Photo Manipulation" },
+
+    { url: "/P2/1 (2).jpg", name: "Digital paint " },
+    { url: "/P2/1 (11).jpg", name: "Movie Poster 1" },
+    { url: "/P2/1 (34).jpg", name: "Movie Poster Mockup" },
+
+    { url: "/P2/1 (10).jpg", name: "Movie Poster 2 " },
+
+    { url: "/P2/1 (3).jpg", name: "Image to Pencil Sketching 1" },
+    { url: "/P2/1 (30).jpg", name: "Image To Pencil Sketching 2" },
+
+    { url: "/P2/1 (4).jpg", name: "Text Effect " },
+    { url: "/P2/1 (5).jpg", name: "Colour Correction1" },
+    { url: "/P2/1 (6).jpg", name: "Colour Correction2" },
+    { url: "/P2/1 (7).jpg", name: "Black & White to Colour " },
+    { url: "/P2/1 (8).jpg", name: "Photo Retouching" },
+
+    { url: "/P2/1 (12).jpg", name: "Creative poster " },
+    { url: "/P2/1 (13).jpg", name: "Product Poster" },
+    { url: "/P2/1 (14).jpg", name: "Digital Art 1" },
+    { url: "/P2/1 (27).jpg", name: "Digital Art 2" },
+
+    { url: "/P2/1 (18).jpg", name: "Magazine Design " },
+    { url: "/P2/1 (19).jpg", name: "Banner Design " },
+    { url: "/P2/1 (33).jpg", name: "Banner Mockup " },
+
+    { url: "/P2/1 (20).jpg", name: "Masking " },
+    { url: "/P2/1 (22).jpg", name: " English Newspaper" },
+    { url: "/P2/1 (23).jpg", name: "Image Tamil Newspaper" },
+    { url: "/P2/1 (24).jpg", name: "Social Media Cover Page" },
+    { url: "/P2/1 (25).jpg", name: "Carrycatcher " },
+    { url: "/P2/1 (26).jpg", name: "Image Mockup" },
+    { url: "/P2/1 (29).jpg", name: " YouTube Thumbnail" },
+    { url: "/P2/1 (32).jpg", name: "Catalogue Design " },
+    
 
   
     // Add remaining images...

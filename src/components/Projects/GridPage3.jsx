@@ -13,32 +13,32 @@ const GridPage3 = () => {
   const images = [
     {
       id: 1,
-      name: "Vicky",
-      decs: "Training Institute Web Design in Bangalore, Website Design for Training Institute, Low Cost Website Design India for Coaching Institute, Affordable Website Design Company, Training Institute Website",
+      name: "Ecommerce website - ELECTRONICS STORE",
+      decs: "Ecommerce website -One That allows people to buy and sell physical goods,services.",
       href: "https://www.figma.com/proto/OZydEoE3dpMYJZnyHlrhAT/Untitled?node-id=131-25&node-type=FRAME&t=Ydilil8mJVsnA2wW-1&scaling=min-zoom&content-scaling=fixed&page-id=67%3A2&starting-point-node-id=131%3A25",
     },
     {
       id: 2,
-      name: "Vicky",
-      decs: "Training Institute Web Design in Bangalore, Website Design for Training Institute, Low Cost Website Design India for Coaching Institute, Affordable Website Design Company, Training Institute Website",
+      name: "Mobile APP ",
+      decs: "It is the task of Designing Mobile applications",
       href: "https://www.figma.com/proto/OZydEoE3dpMYJZnyHlrhAT/Untitled?node-id=2-2&node-type=FRAME&t=6cw40GSRf8PvqsN5-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2",
     },
     {
       id: 3,
-      name: "Vicky",
-      decs: "Training Institute Web Design in Bangalore, Website Design for Training Institute, Low Cost Website Design India for Coaching Institute, Affordable Website Design Company, Training Institute Website",
+      name: "BOOKING FORM",
+      decs: "  Horse Ride Booking System",
       href: "https://www.figma.com/proto/W8VrxeGPEGMR1RqfbrPljy/horse?node-id=315-450&t=xGhxMqUSR74kR1WP-1",
     },
     {
       id: 4,
-      name: "Vicky",
-      decs: "Training Institute Web Design in Bangalore, Website Design for Training Institute, Low Cost Website Design India for Coaching Institute, Affordable Website Design Company, Training Institute Website",
+      name: "Starbucks Coff",
+      decs: "Learn more about the world of cofee !",
       href: "https://www.figma.com/proto/W8VrxeGPEGMR1RqfbrPljy/horse?node-id=86-62&node-type=FRAME&t=FZWtjAK4CXO0hQAF-1&scaling=min-zoom&content-scaling=fixed&page-id=73%3A2",
     },
     {
       id: 5,
-      name: "Vicky",
-      decs: "Training Institute Web Design in Bangalore, Website Design for Training Institute, Low Cost Website Design India for Coaching Institute, Affordable Website Design Company, Training Institute Website",
+      name: "Fruits",
+      decs: "Fruits are the mature or ripened reproductive structures formed by plants that enclosed seeds and help with their.",
       href: "https://www.figma.com/proto/W8VrxeGPEGMR1RqfbrPljy/horse?node-id=29-3&node-type=FRAME&t=K7xCuKHPrDoOYjmV-1&scaling=min-zoom&content-scaling=fixed&page-id=29%3A2&starting-point-node-id=29%3A3&show-proto-sidebar=1",
     },
 

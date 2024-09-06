@@ -11,25 +11,31 @@ const GridPage = () => {
 
   // Array of images with names
   const images = [
-    { url: "/P1/1 (1).jpg", name: "Image 1" },
-    { url: "/P1/1 (2).jpg", name: "Image 2" },
-    { url: "/P1/1 (3).jpg", name: "Image 3" },
-    { url: "/P1/1 (4).jpg", name: "Image 4" },
-    { url: "/P1/1 (5).jpg", name: "Image 5" },
-    { url: "/P1/1 (6).jpg", name: "Image 6" },
-    { url: "/P1/1 (7).jpg", name: "Image 7" },
-    { url: "/P1/1 (8).jpg", name: "Image 8" },
-    { url: "/P1/1 (9).jpg", name: "Image 9" },
-    { url: "/P1/1 (10).jpg", name: "Image 10" },
-    { url: "/P1/1 (11).jpg", name: "Image 11" },
-    { url: "/P1/1 (12).jpg", name: "Image 12" },
-    { url: "/P1/1 (13).jpg", name: "Image 13" },
-    { url: "/P1/1 (14).jpg", name: "Image 14" },
-    { url: "/P1/1 (15).jpg", name: "Image 15" },
-    { url: "/P1/1 (16).jpg", name: "Image 16" },
-    { url: "/P1/1 (17).jpg", name: "Image 17" },
-    { url: "/P1/1 (21).jpg", name: "Image 21" },
-    { url: "/P1/1 (22).jpg", name: "Image 22" },
+    { url: "/P1/1 (22).jpg", name: "Logo Design" },
+
+    { url: "/P1/1 (10).jpg", name: "Package Design " },
+    { url: "/P1/1 (5).jpg", name: "Tamil Book Design 1" },
+
+    { url: "/P1/1 (3).jpg", name: "Tamil Book Design 2" },
+    { url: "/P1/1 (7).jpg", name: "English Book Design 1" },
+
+    { url: "/P1/1 (6).jpg", name: "English Book Design 2" },
+    { url: "/P1/1 (21).jpg", name: "Image to vectar" },
+
+    
+    { url: "/P1/1 (4).jpg", name: "Isometric Design " },
+    { url: "/P1/1 (8).jpg", name: "Label Design " },
+    { url: "/P1/1 (9).jpg", name: "LetterHead Design" },
+    { url: "/P1/1 (11).jpg", name: "Visiting Card" },
+    { url: "/P1/1 (14).jpg", name: "Typography " },
+    { url: "/P1/1 (12).jpg", name: "Icons" },
+    { url: "/P1/1 (13).jpg", name: "Logo " },
+    { url: "/P1/1 (15).jpg", name: "Characters " },
+    { url: "/P1/1 (1).jpg", name: "chracter 1" },
+    { url: "/P1/1 (2).jpg", name: "chracter 2" },
+
+    { url: "/P1/1 (16).jpg", name: "Broucher Design " },
+    { url: "/P1/1 (17).jpg", name: "Bill Design " },
     // Add remaining images...
   ];
 
